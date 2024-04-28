@@ -1,0 +1,9 @@
+{
+    "name": "dell/public",
+    "autoload": {
+        "psr-4": {
+            "Dell\\Public\\": "src/"
+        }
+    },
+    "require": {}
+}
